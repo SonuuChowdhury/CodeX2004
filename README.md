@@ -2,7 +2,7 @@
 - 👀 I’m interested in Making Projects Via Using Different Programming Languages.
 - 🌱 I’m currently learning Python Language Advance.
 - 💞️ I’m looking to collaborate on Bug Bounty.
-- 📫 Contact Me Via choudhurysonu2004@gmail.com or DM on instagram on @itz_sonu_chowdhury
+- 
 
 
 <!---
